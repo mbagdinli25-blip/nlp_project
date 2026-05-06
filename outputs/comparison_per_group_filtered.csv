@@ -1,0 +1,361 @@
+group_type,group,frame,rank,tfidf,distilbert
+period,1_post_quake,technical,1,inşa,zemin
+period,1_post_quake,technical,2,kentsel,bi̇na
+period,1_post_quake,technical,3,şekilde,i̇lleri̇mi̇zde
+period,1_post_quake,technical,4,konut,etki̇lenen
+period,1_post_quake,technical,5,deprem,felaketi
+period,1_post_quake,technical,6,hasar,ihya
+period,1_post_quake,technical,7,köy,inşa
+period,1_post_quake,technical,8,çalışmaları,karadan
+period,1_post_quake,technical,9,afet,ağir
+period,1_post_quake,technical,10,dönüşüm,depremler
+period,1_post_quake,political,1,allah,töreni
+period,1_post_quake,political,2,deprem,depremzede
+period,1_post_quake,political,3,inşallah,cumhuri̇yet
+period,1_post_quake,political,4,bugün,konutunun
+period,1_post_quake,political,5,eden,toplantısı
+period,1_post_quake,political,6,birlikte,töreninde
+period,1_post_quake,political,7,parti,konut
+period,1_post_quake,political,8,dedi,konutun
+period,1_post_quake,political,9,araya,ni̇san
+period,1_post_quake,political,10,şehircilik,kardeşleri̇mi̇ze
+period,1_post_quake,development,1,geçici,ulaştırma
+period,1_post_quake,development,2,inşa,gençler
+period,1_post_quake,development,3,geçici barınma,incelemelerde
+period,1_post_quake,development,4,konut,sultanbeyli
+period,1_post_quake,development,5,barınma,depremzedelerin
+period,1_post_quake,development,6,afet,i̇nsanları
+period,1_post_quake,development,7,ayağa,inşası
+period,1_post_quake,development,8,ediyor,merkezimiz
+period,1_post_quake,development,9,11,yapımı
+period,1_post_quake,development,10,şehrin,sevgili
+period,1_post_quake,sustainability,1,çevre,dirençli
+period,1_post_quake,sustainability,2,klim,yarışır
+period,1_post_quake,sustainability,3,temizlik,hasarlı
+period,1_post_quake,sustainability,4,zmir,altyapısının
+period,1_post_quake,sustainability,5,atık,bankası
+period,1_post_quake,sustainability,6,alan,merkezimiz
+period,1_post_quake,sustainability,7,çalışmalar,risk
+period,1_post_quake,sustainability,8,olacak,stratejik
+period,1_post_quake,sustainability,9,yaptık,merkezi
+period,1_post_quake,sustainability,10,yeşil,enerji
+period,2_pres_campaign,technical,1,kentsel,planını
+period,2_pres_campaign,technical,2,dönüşüm,imar
+period,2_pres_campaign,technical,3,inşa,millet
+period,2_pres_campaign,technical,4,kentsel dönüşüm,i̇mar
+period,2_pres_campaign,technical,5,riskli,sanayi̇
+period,2_pres_campaign,technical,6,konut,alanlar
+period,2_pres_campaign,technical,7,imar,kira
+period,2_pres_campaign,technical,8,deprem,kentsel
+period,2_pres_campaign,technical,9,şekilde,kampanyamiza
+period,2_pres_campaign,technical,10,yapıyoruz,riskli
+period,2_pres_campaign,political,1,dedi,mensupları
+period,2_pres_campaign,political,2,araya,borsalar
+period,2_pres_campaign,political,3,parti,saygıdeğer
+period,2_pres_campaign,political,4,kentsel,bayramı
+period,2_pres_campaign,political,5,millet,i̇ttifakı
+period,2_pres_campaign,political,6,bugün,aziz
+period,2_pres_campaign,political,7,söz,kardeşlerim
+period,2_pres_campaign,political,8,deprem,kıymetli
+period,2_pres_campaign,political,9,eden,kuruluş
+period,2_pres_campaign,political,10,ak parti,sizleri
+period,2_pres_campaign,development,1,geçici,tahsisi
+period,2_pres_campaign,development,2,inşa,sokak
+period,2_pres_campaign,development,3,konut,planını
+period,2_pres_campaign,development,4,iş,muzda
+period,2_pres_campaign,development,5,araya,borsalar
+period,2_pres_campaign,development,6,devam ediyor,sizleri
+period,2_pres_campaign,development,7,ediyor,millet
+period,2_pres_campaign,development,8,şehrin,bölüm
+period,2_pres_campaign,development,9,eğitim,geldi
+period,2_pres_campaign,development,10,teslim,duygularımla
+period,2_pres_campaign,sustainability,1,çevre,bahçesi
+period,2_pres_campaign,sustainability,2,klim,depremde
+period,2_pres_campaign,sustainability,3,yeşil,vatandaşımız
+period,2_pres_campaign,sustainability,4,bahçesi,kirişci
+period,2_pres_campaign,sustainability,5,yüzde,planını
+period,2_pres_campaign,sustainability,6,millet bahçesi,temi̇z
+period,2_pres_campaign,sustainability,7,dönüşümü,bölüm
+period,2_pres_campaign,sustainability,8,atık,gençlerle
+period,2_pres_campaign,sustainability,9,dedi,risk
+period,2_pres_campaign,sustainability,10,olacak,sokak
+period,3_inter_election,technical,1,dönüşüm,teslim
+period,3_inter_election,technical,2,kentsel,güvenli
+period,3_inter_election,technical,3,deprem,ortaya
+period,3_inter_election,technical,4,bilgiler,sağlam
+period,3_inter_election,technical,5,kentsel dönüşüm,inşa
+period,3_inter_election,technical,6,inşa,şehirlerin
+period,3_inter_election,technical,7,şekilde,medya
+period,3_inter_election,technical,8,çalışmalar,dönüşümün
+period,3_inter_election,technical,9,köy,yol
+period,3_inter_election,technical,10,konut,sektör
+period,3_inter_election,political,1,deprem,bahçesi
+period,3_inter_election,political,2,eden,saracağiz
+period,3_inter_election,political,3,dedi,çocuğunu
+period,3_inter_election,political,4,şehircilik,i̇nşallah
+period,3_inter_election,political,5,çevre şehircilik,cumhurbaşkanımızın
+period,3_inter_election,political,6,kentsel,meteoroloji
+period,3_inter_election,political,7,allah,afet
+period,3_inter_election,political,8,parti,ziyaretlerde
+period,3_inter_election,political,9,araya,kayseri̇
+period,3_inter_election,political,10,depremzede,forumu
+period,3_inter_election,development,1,iş,avcılık
+period,3_inter_election,development,2,inşa,1620
+period,3_inter_election,development,3,yerinde,etap
+period,3_inter_election,development,4,deprem,tesisleri
+period,3_inter_election,development,5,bilgiler,tamamlandı
+period,3_inter_election,development,6,eğitim,projesi
+period,3_inter_election,development,7,konut,incelemelerde
+period,3_inter_election,development,8,ediyor,sizleri
+period,3_inter_election,development,9,devam ediyor,merkezimizde
+period,3_inter_election,development,10,devam,bulundu
+period,3_inter_election,sustainability,1,çevre,konferansı
+period,3_inter_election,sustainability,2,atık,karbon
+period,3_inter_election,sustainability,3,klim,çevresel
+period,3_inter_election,sustainability,4,sıfır,şehi̇rci̇li̇k
+period,3_inter_election,sustainability,5,iklim,başkani
+period,3_inter_election,sustainability,6,sıfır atık,yeşi̇l
+period,3_inter_election,sustainability,7,yeşil,sertifika
+period,3_inter_election,sustainability,8,çalışmalar,planı
+period,3_inter_election,sustainability,9,birleşmiş,stratejisi
+period,3_inter_election,sustainability,10,dedi,cop28
+period,4_local_campaign,technical,1,kentsel,ulaştırma
+period,4_local_campaign,technical,2,dönüşüm,muhalefeti̇n
+period,4_local_campaign,technical,3,kentsel dönüşüm,rantsal
+period,4_local_campaign,technical,4,deprem,dönüşüme
+period,4_local_campaign,technical,5,ay,mensupları
+period,4_local_campaign,technical,6,konut,bakani
+period,4_local_campaign,technical,7,li,yatirim
+period,4_local_campaign,technical,8,hak,inşası
+period,4_local_campaign,technical,9,şekilde,kardeşlerim
+period,4_local_campaign,technical,10,köy,teslim
+period,4_local_campaign,political,1,allah,geleceğimizin
+period,4_local_campaign,political,2,deprem,saygıdeğer
+period,4_local_campaign,political,3,bugün,kardeşlerim
+period,4_local_campaign,political,4,inşallah,inşaatına
+period,4_local_campaign,political,5,eden,kura
+period,4_local_campaign,political,6,kentsel,gençler
+period,4_local_campaign,political,7,söz,konutun
+period,4_local_campaign,political,8,millet,sizleri
+period,4_local_campaign,political,9,hizmet,toki̇
+period,4_local_campaign,political,10,hak,kıymetli
+period,4_local_campaign,development,1,teslim,ulaştırma
+period,4_local_campaign,development,2,hak,sitesi
+period,4_local_campaign,development,3,ediyor,dönüşümü
+period,4_local_campaign,development,4,konut,inşası
+period,4_local_campaign,development,5,devam,toki̇
+period,4_local_campaign,development,6,devam ediyor,güneşli
+period,4_local_campaign,development,7,eğitim,gençler
+period,4_local_campaign,development,8,deprem,mübarek
+period,4_local_campaign,development,9,toki,sizleri
+period,4_local_campaign,development,10,iş,mensupları
+period,4_local_campaign,sustainability,1,çevre,maden
+period,4_local_campaign,sustainability,2,atık,ilçesindeki
+period,4_local_campaign,sustainability,3,kli,plani
+period,4_local_campaign,sustainability,4,klim,rantsal
+period,4_local_campaign,sustainability,5,yeşil,projesi̇
+period,4_local_campaign,sustainability,6,söyledi,muhalefeti̇n
+period,4_local_campaign,sustainability,7,bahçesi,belediyesi
+period,4_local_campaign,sustainability,8,yüzde,planimiz
+period,4_local_campaign,sustainability,9,li,i̇kli̇m
+period,4_local_campaign,sustainability,10,dönüşümü,katkı
+period,5_post_local,technical,1,hatsu,altyapı
+period,5_post_local,technical,2,su,bakani
+period,5_post_local,technical,3,suyu,hatlari
+period,5_post_local,technical,4,altyapı,deği̇şi̇kli̇ği̇
+period,5_post_local,technical,5,sağlıklı,yerinde
+period,5_post_local,technical,6,genel müdürlüğü,gören
+period,5_post_local,technical,7,şekilde,teslim
+period,5_post_local,technical,8,hattı,şehi̇rci̇li̇k
+period,5_post_local,technical,9,inşa,yeni̇
+period,5_post_local,technical,10,çalışmalar,hatsu
+period,5_post_local,political,1,öntürk,platformu
+period,5_post_local,political,2,il,mensupları
+period,5_post_local,political,3,tl,basın
+period,5_post_local,political,4,başkan öntürk,saygıdeğer
+period,5_post_local,political,5,eden,konut
+period,5_post_local,political,6,mehmet öntürk,birliğimizin
+period,5_post_local,political,7,il genelinde,borsalar
+period,5_post_local,political,8,hizmet,anahtar
+period,5_post_local,political,9,yeni,milletim
+period,5_post_local,political,10,deprem,kıymetli
+period,5_post_local,development,1,tl,vatandaşımızın
+period,5_post_local,development,2,altyapı,projesi̇
+period,5_post_local,development,3,hatsu,saygılarımı
+period,5_post_local,development,4,haberin görsellerini,hayırlı
+period,5_post_local,development,5,bakım,sevgili
+period,5_post_local,development,6,ediyor,mensupları
+period,5_post_local,development,7,we tl,yatırım
+period,5_post_local,development,8,https we,borsalarımızın
+period,5_post_local,development,9,we,rixos
+period,5_post_local,development,10,inşa,yilmaz
+period,5_post_local,sustainability,1,atık,akcurun
+period,5_post_local,sustainability,2,su,mensupları
+period,5_post_local,sustainability,3,hbb,hizmetler
+period,5_post_local,sustainability,4,çevre,dairesi
+period,5_post_local,sustainability,5,temizlik,i̇kli̇m
+period,5_post_local,sustainability,6,fotoğraflarını aşağıdaki,i̇hti̇yaci
+period,5_post_local,sustainability,7,ekipleri,çevreye
+period,5_post_local,sustainability,8,ni,nda
+period,5_post_local,sustainability,9,dairesi,drone
+period,5_post_local,sustainability,10,çalışmalar,altyapı
+province,national,technical,1,kentsel,zemin
+province,national,technical,2,dönüşüm,bi̇na
+province,national,technical,3,kentsel dönüşüm,i̇lleri̇mi̇zde
+province,national,technical,4,inşa,etki̇lenen
+province,national,technical,5,konut,felaketi
+province,national,technical,6,deprem,ihya
+province,national,technical,7,şekilde,inşa
+province,national,technical,8,köy,karadan
+province,national,technical,9,şehircilik,ağir
+province,national,technical,10,çevre şehircilik,depremler
+province,national,political,1,allah,töreni
+province,national,political,2,inşallah,depremzede
+province,national,political,3,deprem,cumhuri̇yet
+province,national,political,4,şehircilik,konut
+province,national,political,5,çevre şehircilik,konutunun
+province,national,political,6,kentsel,toplantısı
+province,national,political,7,bugün,töreninde
+province,national,political,8,söz,konutun
+province,national,political,9,eden,ni̇san
+province,national,political,10,an,kardeşleri̇mi̇ze
+province,national,development,1,inşa,avcılık
+province,national,development,2,konut,1620
+province,national,development,3,teslim,ulaştırma
+province,national,development,4,toki,planını
+province,national,development,5,11,gençler
+province,national,development,6,iş,sultanbeyli
+province,national,development,7,deprem,şampiyonları
+province,national,development,8,alan,i̇nsanları
+province,national,development,9,dönüşüm,kurul
+province,national,development,10,ediyor,altyapı
+province,national,sustainability,1,çevre,konferansı
+province,national,sustainability,2,klim,dönüşüm
+province,national,sustainability,3,atık,yeşi̇l
+province,national,sustainability,4,sıfır,temi̇z
+province,national,sustainability,5,yüzde,başkani
+province,national,sustainability,6,iklim,şehi̇rci̇li̇k
+province,national,sustainability,7,yeşil,ilde
+province,national,sustainability,8,sıfır atık,planı
+province,national,sustainability,9,dönüşümü,stratejisi
+province,national,sustainability,10,klim değişikliği,cop28
+province,kahramanmaras,technical,1,bilgiler,bakani
+province,kahramanmaras,technical,2,şehrin,asfalt
+province,kahramanmaras,technical,3,inşa,şehi̇rci̇li̇k
+province,kahramanmaras,technical,4,deprem,deği̇şi̇kli̇ği̇
+province,kahramanmaras,technical,5,heyet,tamamlandığı
+province,kahramanmaras,technical,6,çalışmaları,kentsel
+province,kahramanmaras,technical,7,çalışmalar,çalışmalarını
+province,kahramanmaras,technical,8,şehir,kalıcı
+province,kahramanmaras,technical,9,noktasında,belirten
+province,kahramanmaras,technical,10,imar,malikleri
+province,kahramanmaras,political,1,eden,cumhurbaşkanımıza
+province,kahramanmaras,political,2,parti,afet
+province,kahramanmaras,political,3,araya,toki̇
+province,kahramanmaras,political,4,ak parti,kura
+province,kahramanmaras,political,5,deprem,ziyaretlerde
+province,kahramanmaras,political,6,dedi,etti
+province,kahramanmaras,political,7,ak,depremlerinin
+province,kahramanmaras,political,8,bulundu,töreni
+province,kahramanmaras,political,9,türkoğlu,anahtar
+province,kahramanmaras,political,10,ayağa,yüzyılı
+province,kahramanmaras,development,1,geçici,tahsisi
+province,kahramanmaras,development,2,şehrin,depremzedelerin
+province,kahramanmaras,development,3,bilgiler,etap
+province,kahramanmaras,development,4,inşa,tesisleri
+province,kahramanmaras,development,5,iş,tamamlandı
+province,kahramanmaras,development,6,devam ediyor,projesi
+province,kahramanmaras,development,7,ediyor,kura
+province,kahramanmaras,development,8,ulaşım,prefabrik
+province,kahramanmaras,development,9,eğitim,incelemelerde
+province,kahramanmaras,development,10,ayağa,yerlerinin
+province,kahramanmaras,sustainability,1,çevre,depremde
+province,kahramanmaras,sustainability,2,temizlik,hibe
+province,kahramanmaras,sustainability,3,dedi,tesisleri
+province,kahramanmaras,sustainability,4,çalışmalar,cam
+province,kahramanmaras,sustainability,5,dairesi başkanlığı,japonya
+province,kahramanmaras,sustainability,6,dairesi,kirişci
+province,kahramanmaras,sustainability,7,alan,birliğiyle
+province,kahramanmaras,sustainability,8,in,bakanlığı
+province,kahramanmaras,sustainability,9,yardımcısı,milletvekili
+province,kahramanmaras,sustainability,10,programda,2023
+province,hatay,technical,1,hatsu,hibe
+province,hatay,technical,2,su,hatlari
+province,hatay,technical,3,suyu,altyapı
+province,hatay,technical,4,altyapı,konut
+province,hatay,technical,5,sağlıklı,hatlarında
+province,hatay,technical,6,çalışmalar,çevresel
+province,hatay,technical,7,hattı,dairesi
+province,hatay,technical,8,yetkilileri,çalişmalarina
+province,hatay,technical,9,genel müdürlüğü,yilmaz
+province,hatay,technical,10,çalışmaları,yardımcısı
+province,hatay,political,1,öntürk,töreni
+province,hatay,political,2,il,konut
+province,hatay,political,3,tl,konutları
+province,hatay,political,4,başkan öntürk,açılış
+province,hatay,political,5,il genelinde,toki̇
+province,hatay,political,6,mehmet öntürk,mi̇lyar
+province,hatay,political,7,deprem,toplu
+province,hatay,political,8,ayrıca,anahtar
+province,hatay,political,9,ediyor hbb,cami̇
+province,hatay,political,10,eden,müjdesi̇
+province,hatay,development,1,tl,erzi̇n
+province,hatay,development,2,altyapı,hibe
+province,hatay,development,3,hatsu,şehi̇rci̇li̇k
+province,hatay,development,4,haberin görsellerini,hesob
+province,hatay,development,5,skenderun,atma
+province,hatay,development,6,asfalt,bakani
+province,hatay,development,7,yetkilileri,ekim
+province,hatay,development,8,bakım,projeler
+province,hatay,development,9,we tl,yilmaz
+province,hatay,development,10,https we,hi̇zmet
+province,hatay,sustainability,1,atık,bahçesi
+province,hatay,sustainability,2,su,çevresel
+province,hatay,sustainability,3,hbb,plani
+province,hatay,sustainability,4,temizlik,expo
+province,hatay,sustainability,5,çevre,planimiz
+province,hatay,sustainability,6,ekipleri,nda
+province,hatay,sustainability,7,daire,nehri
+province,hatay,sustainability,8,fotoğraflarını aşağıdaki,müdürlüğü
+province,hatay,sustainability,9,daire başkanlığı,ayında
+province,hatay,sustainability,10,fotoğraflarını,i̇kli̇m
+province,adiyaman,technical,1,deprem,vatandaşımızın
+province,adiyaman,technical,2,vatandaşlarımızın,yapı
+province,adiyaman,technical,3,çalışmalar,kentsel
+province,adiyaman,technical,4,konut,deği̇şi̇kli̇ği̇
+province,adiyaman,technical,5,su,bakani
+province,adiyaman,technical,6,şekilde,dünyayı
+province,adiyaman,technical,7,ndere,milletimizin
+province,adiyaman,technical,8,şehircilik,sağlam
+province,adiyaman,technical,9,inşa,projesi̇
+province,adiyaman,technical,10,dönüşüm,nde
+province,adiyaman,political,1,deprem,binaların
+province,adiyaman,political,2,eden,projesi
+province,adiyaman,political,3,taleplerini,unsurların
+province,adiyaman,political,4,depremzede,vatandaşımızın
+province,adiyaman,political,5,dedi,önümüzde
+province,adiyaman,political,6,an,ezelden
+province,adiyaman,political,7,allah,kalbi̇
+province,adiyaman,political,8,araya,konuştu
+province,adiyaman,political,9,şehircilik,meydan
+province,adiyaman,political,10,bugün,töreni
+province,adiyaman,development,1,dr osman,vatandaşımızın
+province,adiyaman,development,2,ilçe,projesi̇
+province,adiyaman,development,3,alan,sağlam
+province,adiyaman,development,4,konut,bakani
+province,adiyaman,development,5,deprem,yapımı
+province,adiyaman,development,6,yerinde,incelemelerde
+province,adiyaman,development,7,ayağa,bayramı
+province,adiyaman,development,8,yaşam,adiyaman
+province,adiyaman,development,9,konteyner,dünyayı
+province,adiyaman,development,10,alt,şan
+province,adiyaman,sustainability,1,çevre,sınavı
+province,adiyaman,sustainability,2,klim,yükseköğretim
+province,adiyaman,sustainability,3,alan,emlak
+province,adiyaman,sustainability,4,çalışmalar,birlikte
+province,adiyaman,sustainability,5,kli,açıkladı
+province,adiyaman,sustainability,6,söyledi,incelemelerde
+province,adiyaman,sustainability,7,dedi,yana
+province,adiyaman,sustainability,8,ni,yardımcısı
+province,adiyaman,sustainability,9,yaşam,dünyayı
+province,adiyaman,sustainability,10,su,kalıcı

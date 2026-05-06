@@ -1,0 +1,721 @@
+group_type,group,frame,rank,word,contribution
+period,1_post_quake,technical,1,inşa,0.0064
+period,1_post_quake,technical,2,kentsel,0.0044
+period,1_post_quake,technical,3,şekilde,0.0041
+period,1_post_quake,technical,4,konut,0.004
+period,1_post_quake,technical,5,deprem,0.004
+period,1_post_quake,technical,6,hasar,0.0039
+period,1_post_quake,technical,7,köy,0.0034
+period,1_post_quake,technical,8,çalışmaları,0.0033
+period,1_post_quake,technical,9,afet,0.0032
+period,1_post_quake,technical,10,dönüşüm,0.0031
+period,1_post_quake,technical,11,zemin,0.003
+period,1_post_quake,technical,12,acil,0.003
+period,1_post_quake,technical,13,su,0.003
+period,1_post_quake,technical,14,toplamda,0.003
+period,1_post_quake,technical,15,çalışmalar,0.0029
+period,1_post_quake,technical,16,kentsel dönüşüm,0.0028
+period,1_post_quake,technical,17,şehrin,0.0027
+period,1_post_quake,technical,18,şehircilik,0.0026
+period,1_post_quake,technical,19,11,0.0025
+period,1_post_quake,technical,20,süreci,0.0024
+period,1_post_quake,political,1,allah,0.0039
+period,1_post_quake,political,2,deprem,0.0037
+period,1_post_quake,political,3,inşallah,0.0033
+period,1_post_quake,political,4,bugün,0.0032
+period,1_post_quake,political,5,eden,0.0031
+period,1_post_quake,political,6,birlikte,0.0029
+period,1_post_quake,political,7,parti,0.0029
+period,1_post_quake,political,8,dedi,0.0029
+period,1_post_quake,political,9,araya,0.0027
+period,1_post_quake,political,10,şehircilik,0.0027
+period,1_post_quake,political,11,çevre şehircilik,0.0025
+period,1_post_quake,political,12,ayağa,0.0025
+period,1_post_quake,political,13,ak parti,0.0023
+period,1_post_quake,political,14,11,0.0022
+period,1_post_quake,political,15,söz,0.0022
+period,1_post_quake,political,16,millet,0.0022
+period,1_post_quake,political,17,ak,0.0022
+period,1_post_quake,political,18,afet,0.0021
+period,1_post_quake,political,19,devlet,0.0021
+period,1_post_quake,political,20,kalıcı,0.002
+period,1_post_quake,development,1,geçici,0.0081
+period,1_post_quake,development,2,inşa,0.0068
+period,1_post_quake,development,3,geçici barınma,0.0047
+period,1_post_quake,development,4,konut,0.0046
+period,1_post_quake,development,5,barınma,0.0042
+period,1_post_quake,development,6,afet,0.0037
+period,1_post_quake,development,7,ayağa,0.0037
+period,1_post_quake,development,8,ediyor,0.0033
+period,1_post_quake,development,9,11,0.0032
+period,1_post_quake,development,10,şehrin,0.0032
+period,1_post_quake,development,11,devam ediyor,0.0031
+period,1_post_quake,development,12,toki,0.003
+period,1_post_quake,development,13,iş,0.0028
+period,1_post_quake,development,14,teslim,0.0028
+period,1_post_quake,development,15,devam,0.0028
+period,1_post_quake,development,16,alan,0.0028
+period,1_post_quake,development,17,deprem,0.0027
+period,1_post_quake,development,18,konteyner,0.0026
+period,1_post_quake,development,19,depremin,0.0026
+period,1_post_quake,development,20,yaşam,0.0025
+period,1_post_quake,sustainability,1,çevre,0.0051
+period,1_post_quake,sustainability,2,klim,0.003
+period,1_post_quake,sustainability,3,temizlik,0.0026
+period,1_post_quake,sustainability,4,zmir,0.0017
+period,1_post_quake,sustainability,5,atık,0.0017
+period,1_post_quake,sustainability,6,alan,0.0015
+period,1_post_quake,sustainability,7,çalışmalar,0.0014
+period,1_post_quake,sustainability,8,olacak,0.0014
+period,1_post_quake,sustainability,9,yaptık,0.0014
+period,1_post_quake,sustainability,10,yeşil,0.0014
+period,1_post_quake,sustainability,11,klim değişikliği,0.0014
+period,1_post_quake,sustainability,12,in,0.0013
+period,1_post_quake,sustainability,13,su,0.0013
+period,1_post_quake,sustainability,14,değişikliği,0.0013
+period,1_post_quake,sustainability,15,dedi,0.0013
+period,1_post_quake,sustainability,16,bahçesi,0.0013
+period,1_post_quake,sustainability,17,yaşam,0.0012
+period,1_post_quake,sustainability,18,yüzde,0.0012
+period,1_post_quake,sustainability,19,koruma,0.0011
+period,1_post_quake,sustainability,20,gelen,0.0011
+period,2_pres_campaign,technical,1,kentsel,0.008
+period,2_pres_campaign,technical,2,dönüşüm,0.0058
+period,2_pres_campaign,technical,3,inşa,0.0044
+period,2_pres_campaign,technical,4,kentsel dönüşüm,0.0043
+period,2_pres_campaign,technical,5,riskli,0.004
+period,2_pres_campaign,technical,6,konut,0.0039
+period,2_pres_campaign,technical,7,imar,0.0038
+period,2_pres_campaign,technical,8,deprem,0.0035
+period,2_pres_campaign,technical,9,şekilde,0.0035
+period,2_pres_campaign,technical,10,yapıyoruz,0.0033
+period,2_pres_campaign,technical,11,bağımsız,0.0032
+period,2_pres_campaign,technical,12,su,0.0029
+period,2_pres_campaign,technical,13,toplamda,0.0029
+period,2_pres_campaign,technical,14,şehrin,0.0028
+period,2_pres_campaign,technical,15,şehircilik,0.0027
+period,2_pres_campaign,technical,16,çevre şehircilik,0.0023
+period,2_pres_campaign,technical,17,süreci,0.0023
+period,2_pres_campaign,technical,18,klim,0.0022
+period,2_pres_campaign,technical,19,11,0.0022
+period,2_pres_campaign,technical,20,köy,0.0022
+period,2_pres_campaign,political,1,dedi,0.004
+period,2_pres_campaign,political,2,araya,0.0039
+period,2_pres_campaign,political,3,parti,0.0037
+period,2_pres_campaign,political,4,kentsel,0.0035
+period,2_pres_campaign,political,5,millet,0.0034
+period,2_pres_campaign,political,6,bugün,0.0034
+period,2_pres_campaign,political,7,söz,0.0033
+period,2_pres_campaign,political,8,deprem,0.0032
+period,2_pres_campaign,political,9,eden,0.003
+period,2_pres_campaign,political,10,ak parti,0.0029
+period,2_pres_campaign,political,11,şehircilik,0.0028
+period,2_pres_campaign,political,12,ak,0.0028
+period,2_pres_campaign,political,13,inşallah,0.0028
+period,2_pres_campaign,political,14,birlikte,0.0027
+period,2_pres_campaign,political,15,hizmet,0.0026
+period,2_pres_campaign,political,16,çevre şehircilik,0.0026
+period,2_pres_campaign,political,17,imar,0.0023
+period,2_pres_campaign,political,18,allah,0.0023
+period,2_pres_campaign,political,19,sayın cumhurbaşkanımızın,0.0023
+period,2_pres_campaign,political,20,yeni,0.0022
+period,2_pres_campaign,development,1,geçici,0.0052
+period,2_pres_campaign,development,2,inşa,0.0047
+period,2_pres_campaign,development,3,konut,0.0044
+period,2_pres_campaign,development,4,iş,0.0037
+period,2_pres_campaign,development,5,araya,0.0036
+period,2_pres_campaign,development,6,devam ediyor,0.0036
+period,2_pres_campaign,development,7,ediyor,0.0035
+period,2_pres_campaign,development,8,şehrin,0.0034
+period,2_pres_campaign,development,9,eğitim,0.0033
+period,2_pres_campaign,development,10,teslim,0.0033
+period,2_pres_campaign,development,11,alan,0.0033
+period,2_pres_campaign,development,12,sosyal,0.0032
+period,2_pres_campaign,development,13,devam,0.0031
+period,2_pres_campaign,development,14,alanı,0.0031
+period,2_pres_campaign,development,15,ulaşım,0.003
+period,2_pres_campaign,development,16,11,0.0028
+period,2_pres_campaign,development,17,ayağa,0.0028
+period,2_pres_campaign,development,18,orman,0.0027
+period,2_pres_campaign,development,19,önemli,0.0027
+period,2_pres_campaign,development,20,yaşam,0.0026
+period,2_pres_campaign,sustainability,1,çevre,0.005
+period,2_pres_campaign,sustainability,2,klim,0.0032
+period,2_pres_campaign,sustainability,3,yeşil,0.003
+period,2_pres_campaign,sustainability,4,bahçesi,0.0028
+period,2_pres_campaign,sustainability,5,yüzde,0.0026
+period,2_pres_campaign,sustainability,6,millet bahçesi,0.0025
+period,2_pres_campaign,sustainability,7,dönüşümü,0.0025
+period,2_pres_campaign,sustainability,8,atık,0.0021
+period,2_pres_campaign,sustainability,9,dedi,0.0018
+period,2_pres_campaign,sustainability,10,olacak,0.0018
+period,2_pres_campaign,sustainability,11,in,0.0018
+period,2_pres_campaign,sustainability,12,alan,0.0018
+period,2_pres_campaign,sustainability,13,millet,0.0016
+period,2_pres_campaign,sustainability,14,klim değişikliği,0.0014
+period,2_pres_campaign,sustainability,15,değişikliği,0.0014
+period,2_pres_campaign,sustainability,16,ni,0.0014
+period,2_pres_campaign,sustainability,17,yaptık,0.0014
+period,2_pres_campaign,sustainability,18,gelecek,0.0014
+period,2_pres_campaign,sustainability,19,su,0.0013
+period,2_pres_campaign,sustainability,20,yaşam,0.0013
+period,3_inter_election,technical,1,dönüşüm,0.007
+period,3_inter_election,technical,2,kentsel,0.0059
+period,3_inter_election,technical,3,deprem,0.0052
+period,3_inter_election,technical,4,bilgiler,0.004
+period,3_inter_election,technical,5,kentsel dönüşüm,0.0036
+period,3_inter_election,technical,6,inşa,0.0034
+period,3_inter_election,technical,7,şekilde,0.0032
+period,3_inter_election,technical,8,çalışmalar,0.0032
+period,3_inter_election,technical,9,köy,0.0031
+period,3_inter_election,technical,10,konut,0.0029
+period,3_inter_election,technical,11,çalışmaları,0.0029
+period,3_inter_election,technical,12,şehircilik,0.0026
+period,3_inter_election,technical,13,hasar,0.0024
+period,3_inter_election,technical,14,su,0.0023
+period,3_inter_election,technical,15,çevre şehircilik,0.0023
+period,3_inter_election,technical,16,klim,0.0023
+period,3_inter_election,technical,17,sağlıklı,0.0022
+period,3_inter_election,technical,18,şehrin,0.0022
+period,3_inter_election,technical,19,imar,0.0021
+period,3_inter_election,technical,20,klim değişikliği,0.002
+period,3_inter_election,political,1,deprem,0.0048
+period,3_inter_election,political,2,eden,0.0037
+period,3_inter_election,political,3,dedi,0.0033
+period,3_inter_election,political,4,şehircilik,0.0027
+period,3_inter_election,political,5,çevre şehircilik,0.0026
+period,3_inter_election,political,6,kentsel,0.0026
+period,3_inter_election,political,7,allah,0.0023
+period,3_inter_election,political,8,parti,0.0022
+period,3_inter_election,political,9,araya,0.0022
+period,3_inter_election,political,10,depremzede,0.0021
+period,3_inter_election,political,11,klim değişikliği,0.002
+period,3_inter_election,political,12,inşallah,0.002
+period,3_inter_election,political,13,nin,0.002
+period,3_inter_election,political,14,bugün,0.002
+period,3_inter_election,political,15,şehircilik klim,0.002
+period,3_inter_election,political,16,an,0.0019
+period,3_inter_election,political,17,yeni,0.0019
+period,3_inter_election,political,18,bulundu,0.0018
+period,3_inter_election,political,19,ayağa,0.0018
+period,3_inter_election,political,20,ziyaret eden,0.0017
+period,3_inter_election,development,1,iş,0.0037
+period,3_inter_election,development,2,inşa,0.0036
+period,3_inter_election,development,3,yerinde,0.0035
+period,3_inter_election,development,4,deprem,0.0035
+period,3_inter_election,development,5,bilgiler,0.0034
+period,3_inter_election,development,6,eğitim,0.0034
+period,3_inter_election,development,7,konut,0.0033
+period,3_inter_election,development,8,ediyor,0.0032
+period,3_inter_election,development,9,devam ediyor,0.0029
+period,3_inter_election,development,10,devam,0.0029
+period,3_inter_election,development,11,alan,0.0028
+period,3_inter_election,development,12,ayağa,0.0026
+period,3_inter_election,development,13,şehrin,0.0026
+period,3_inter_election,development,14,projesi,0.0026
+period,3_inter_election,development,15,geçici,0.0026
+period,3_inter_election,development,16,dönüşüm,0.0025
+period,3_inter_election,development,17,ulaşım,0.0025
+period,3_inter_election,development,18,asfalt,0.0025
+period,3_inter_election,development,19,alanı,0.0023
+period,3_inter_election,development,20,toki,0.0021
+period,3_inter_election,sustainability,1,çevre,0.0058
+period,3_inter_election,sustainability,2,atık,0.0039
+period,3_inter_election,sustainability,3,klim,0.0032
+period,3_inter_election,sustainability,4,sıfır,0.0025
+period,3_inter_election,sustainability,5,iklim,0.0021
+period,3_inter_election,sustainability,6,sıfır atık,0.0018
+period,3_inter_election,sustainability,7,yeşil,0.0017
+period,3_inter_election,sustainability,8,çalışmalar,0.0016
+period,3_inter_election,sustainability,9,birleşmiş,0.0016
+period,3_inter_election,sustainability,10,dedi,0.0015
+period,3_inter_election,sustainability,11,alan,0.0015
+period,3_inter_election,sustainability,12,milletler,0.0015
+period,3_inter_election,sustainability,13,yüzde,0.0015
+period,3_inter_election,sustainability,14,birleşmiş milletler,0.0015
+period,3_inter_election,sustainability,15,klim değişikliği,0.0014
+period,3_inter_election,sustainability,16,değişikliği,0.0014
+period,3_inter_election,sustainability,17,dünya,0.0013
+period,3_inter_election,sustainability,18,olacak,0.0013
+period,3_inter_election,sustainability,19,in,0.0013
+period,3_inter_election,sustainability,20,yaşanan,0.0013
+period,4_local_campaign,technical,1,kentsel,0.007
+period,4_local_campaign,technical,2,dönüşüm,0.0053
+period,4_local_campaign,technical,3,kentsel dönüşüm,0.0044
+period,4_local_campaign,technical,4,deprem,0.0043
+period,4_local_campaign,technical,5,ay,0.0038
+period,4_local_campaign,technical,6,konut,0.003
+period,4_local_campaign,technical,7,li,0.003
+period,4_local_campaign,technical,8,hak,0.0028
+period,4_local_campaign,technical,9,şekilde,0.0027
+period,4_local_campaign,technical,10,köy,0.0026
+period,4_local_campaign,technical,11,su,0.0026
+period,4_local_campaign,technical,12,karşı,0.0025
+period,4_local_campaign,technical,13,çalışmaları,0.0025
+period,4_local_campaign,technical,14,depreme,0.0024
+period,4_local_campaign,technical,15,inşa,0.0024
+period,4_local_campaign,technical,16,şehircilik,0.0024
+period,4_local_campaign,technical,17,bilgiler,0.0022
+period,4_local_campaign,technical,18,çevre şehircilik,0.0021
+period,4_local_campaign,technical,19,toki,0.0021
+period,4_local_campaign,technical,20,bin konutu,0.0021
+period,4_local_campaign,political,1,allah,0.0048
+period,4_local_campaign,political,2,deprem,0.0039
+period,4_local_campaign,political,3,bugün,0.0037
+period,4_local_campaign,political,4,inşallah,0.0036
+period,4_local_campaign,political,5,eden,0.0034
+period,4_local_campaign,political,6,kentsel,0.003
+period,4_local_campaign,political,7,söz,0.0029
+period,4_local_campaign,political,8,millet,0.0026
+period,4_local_campaign,political,9,hizmet,0.0025
+period,4_local_campaign,political,10,hak,0.0025
+period,4_local_campaign,political,11,dedi,0.0025
+period,4_local_campaign,political,12,şehircilik,0.0025
+period,4_local_campaign,political,13,nin,0.0024
+period,4_local_campaign,political,14,parti,0.0024
+period,4_local_campaign,political,15,çevre şehircilik,0.0024
+period,4_local_campaign,political,16,devlet,0.0022
+period,4_local_campaign,political,17,cumhurbaşkanı,0.0022
+period,4_local_campaign,political,18,an,0.0022
+period,4_local_campaign,political,19,birlikte,0.0022
+period,4_local_campaign,political,20,konutu,0.0022
+period,4_local_campaign,development,1,teslim,0.0044
+period,4_local_campaign,development,2,hak,0.0041
+period,4_local_campaign,development,3,ediyor,0.0035
+period,4_local_campaign,development,4,konut,0.0034
+period,4_local_campaign,development,5,devam,0.0033
+period,4_local_campaign,development,6,devam ediyor,0.0032
+period,4_local_campaign,development,7,eğitim,0.003
+period,4_local_campaign,development,8,deprem,0.0029
+period,4_local_campaign,development,9,toki,0.0029
+period,4_local_campaign,development,10,iş,0.0027
+period,4_local_campaign,development,11,inşa,0.0026
+period,4_local_campaign,development,12,konutu,0.0026
+period,4_local_campaign,development,13,bi,0.0026
+period,4_local_campaign,development,14,projesi,0.0025
+period,4_local_campaign,development,15,alan,0.0023
+period,4_local_campaign,development,16,tl,0.0022
+period,4_local_campaign,development,17,özellikle,0.0022
+period,4_local_campaign,development,18,milyar,0.002
+period,4_local_campaign,development,19,ediyorum,0.002
+period,4_local_campaign,development,20,hayata,0.0019
+period,4_local_campaign,sustainability,1,çevre,0.0055
+period,4_local_campaign,sustainability,2,atık,0.004
+period,4_local_campaign,sustainability,3,kli,0.003
+period,4_local_campaign,sustainability,4,klim,0.003
+period,4_local_campaign,sustainability,5,yeşil,0.0022
+period,4_local_campaign,sustainability,6,söyledi,0.0021
+period,4_local_campaign,sustainability,7,bahçesi,0.0021
+period,4_local_campaign,sustainability,8,yüzde,0.0021
+period,4_local_campaign,sustainability,9,li,0.002
+period,4_local_campaign,sustainability,10,dönüşümü,0.0019
+period,4_local_campaign,sustainability,11,millet bahçesi,0.0018
+period,4_local_campaign,sustainability,12,enerji,0.0017
+period,4_local_campaign,sustainability,13,in,0.0017
+period,4_local_campaign,sustainability,14,dünya,0.0017
+period,4_local_campaign,sustainability,15,ği,0.0017
+period,4_local_campaign,sustainability,16,arıtma,0.0016
+period,4_local_campaign,sustainability,17,ni,0.0016
+period,4_local_campaign,sustainability,18,deği,0.0015
+period,4_local_campaign,sustainability,19,sürdürülebilir,0.0015
+period,4_local_campaign,sustainability,20,zmir,0.0014
+period,5_post_local,technical,1,hatsu,0.0116
+period,5_post_local,technical,2,su,0.0107
+period,5_post_local,technical,3,suyu,0.007
+period,5_post_local,technical,4,altyapı,0.0065
+period,5_post_local,technical,5,sağlıklı,0.005
+period,5_post_local,technical,6,genel müdürlüğü,0.0037
+period,5_post_local,technical,7,şekilde,0.0035
+period,5_post_local,technical,8,hattı,0.0035
+period,5_post_local,technical,9,inşa,0.0033
+period,5_post_local,technical,10,çalışmalar,0.0032
+period,5_post_local,technical,11,çalışmaları,0.0028
+period,5_post_local,technical,12,atık su,0.0028
+period,5_post_local,technical,13,yetkilileri,0.0027
+period,5_post_local,technical,14,çalışması,0.0026
+period,5_post_local,technical,15,deprem,0.0025
+period,5_post_local,technical,16,kapsamında,0.0024
+period,5_post_local,technical,17,bağlı,0.0024
+period,5_post_local,technical,18,bilgiler,0.0024
+period,5_post_local,technical,19,indirebilirsiniz fotoğraf,0.0023
+period,5_post_local,technical,20,metre,0.0022
+period,5_post_local,political,1,öntürk,0.0118
+period,5_post_local,political,2,il,0.0054
+period,5_post_local,political,3,tl,0.0043
+period,5_post_local,political,4,başkan öntürk,0.0041
+period,5_post_local,political,5,eden,0.0033
+period,5_post_local,political,6,mehmet öntürk,0.003
+period,5_post_local,political,7,il genelinde,0.003
+period,5_post_local,political,8,hizmet,0.0025
+period,5_post_local,political,9,yeni,0.0024
+period,5_post_local,political,10,deprem,0.0023
+period,5_post_local,political,11,ayrıca,0.0023
+period,5_post_local,political,12,allah,0.0021
+period,5_post_local,political,13,bugün,0.002
+period,5_post_local,political,14,genel müdürlüğü,0.0019
+period,5_post_local,political,15,nin,0.0018
+period,5_post_local,political,16,birlikte,0.0018
+period,5_post_local,political,17,ifade etti,0.0017
+period,5_post_local,political,18,devam,0.0017
+period,5_post_local,political,19,inşallah,0.0017
+period,5_post_local,political,20,bulundu,0.0016
+period,5_post_local,development,1,tl,0.0068
+period,5_post_local,development,2,altyapı,0.0056
+period,5_post_local,development,3,hatsu,0.0051
+period,5_post_local,development,4,haberin görsellerini,0.005
+period,5_post_local,development,5,bakım,0.0041
+period,5_post_local,development,6,ediyor,0.0038
+period,5_post_local,development,7,we tl,0.0036
+period,5_post_local,development,8,https we,0.0036
+period,5_post_local,development,9,we,0.0036
+period,5_post_local,development,10,inşa,0.0035
+period,5_post_local,development,11,asfalt,0.0035
+period,5_post_local,development,12,skenderun,0.0035
+period,5_post_local,development,13,yetkilileri,0.0035
+period,5_post_local,development,14,eğitim,0.0034
+period,5_post_local,development,15,devam ediyor,0.0034
+period,5_post_local,development,16,devam,0.0033
+period,5_post_local,development,17,görsellerini aşağıdaki,0.0032
+period,5_post_local,development,18,görsellerini,0.0032
+period,5_post_local,development,19,fotoğraf,0.0032
+period,5_post_local,development,20,ulaşım,0.003
+period,5_post_local,sustainability,1,atık,0.0076
+period,5_post_local,sustainability,2,su,0.0048
+period,5_post_local,sustainability,3,hbb,0.0036
+period,5_post_local,sustainability,4,çevre,0.0034
+period,5_post_local,sustainability,5,temizlik,0.0031
+period,5_post_local,sustainability,6,fotoğraflarını aşağıdaki,0.0019
+period,5_post_local,sustainability,7,ekipleri,0.0018
+period,5_post_local,sustainability,8,ni,0.0017
+period,5_post_local,sustainability,9,dairesi,0.0017
+period,5_post_local,sustainability,10,çalışmalar,0.0016
+period,5_post_local,sustainability,11,enerji,0.0016
+period,5_post_local,sustainability,12,fotoğraflarını,0.0016
+period,5_post_local,sustainability,13,kapsamında,0.0015
+period,5_post_local,sustainability,14,daire,0.0015
+period,5_post_local,sustainability,15,dünya,0.0015
+period,5_post_local,sustainability,16,yaşanan,0.0015
+period,5_post_local,sustainability,17,in,0.0014
+period,5_post_local,sustainability,18,ifade,0.0014
+period,5_post_local,sustainability,19,dairesi başkanlığı,0.0014
+period,5_post_local,sustainability,20,ayrıca,0.0014
+province,national,technical,1,kentsel,0.0098
+province,national,technical,2,dönüşüm,0.0093
+province,national,technical,3,kentsel dönüşüm,0.0065
+province,national,technical,4,inşa,0.0057
+province,national,technical,5,konut,0.0053
+province,national,technical,6,deprem,0.0051
+province,national,technical,7,şekilde,0.0046
+province,national,technical,8,köy,0.0046
+province,national,technical,9,şehircilik,0.0044
+province,national,technical,10,çevre şehircilik,0.0039
+province,national,technical,11,klim,0.0038
+province,national,technical,12,ay,0.0035
+province,national,technical,13,bağımsız,0.0035
+province,national,technical,14,şehircilik klim,0.0034
+province,national,technical,15,klim değişikliği,0.0034
+province,national,technical,16,yapıyoruz,0.0032
+province,national,technical,17,sağlam,0.0031
+province,national,technical,18,değişikliği,0.0031
+province,national,technical,19,riskli,0.003
+province,national,technical,20,güvenli,0.0029
+province,national,political,1,allah,0.0051
+province,national,political,2,inşallah,0.005
+province,national,political,3,deprem,0.0047
+province,national,political,4,şehircilik,0.0046
+province,national,political,5,çevre şehircilik,0.0043
+province,national,political,6,kentsel,0.0042
+province,national,political,7,bugün,0.0042
+province,national,political,8,söz,0.0037
+province,national,political,9,eden,0.0035
+province,national,political,10,an,0.0034
+province,national,political,11,klim değişikliği,0.0034
+province,national,political,12,şehircilik klim,0.0033
+province,national,political,13,millet,0.003
+province,national,political,14,dedi,0.003
+province,national,political,15,birlikte,0.0029
+province,national,political,16,klim,0.0029
+province,national,political,17,milletimizin,0.0028
+province,national,political,18,devlet,0.0028
+province,national,political,19,yeni,0.0028
+province,national,political,20,değişikliği,0.0028
+province,national,development,1,inşa,0.0061
+province,national,development,2,konut,0.006
+province,national,development,3,teslim,0.004
+province,national,development,4,toki,0.0037
+province,national,development,5,11,0.0036
+province,national,development,6,iş,0.0035
+province,national,development,7,deprem,0.0035
+province,national,development,8,alan,0.0033
+province,national,development,9,dönüşüm,0.0033
+province,national,development,10,ediyor,0.0033
+province,national,development,11,özellikle,0.0032
+province,national,development,12,yerinde,0.0031
+province,national,development,13,hak,0.0031
+province,national,development,14,devam,0.0028
+province,national,development,15,sosyal,0.0028
+province,national,development,16,ediyorum,0.0027
+province,national,development,17,21,0.0027
+province,national,development,18,rezerv,0.0027
+province,national,development,19,projesi,0.0026
+province,national,development,20,bi,0.0026
+province,national,sustainability,1,çevre,0.0083
+province,national,sustainability,2,klim,0.0054
+province,national,sustainability,3,atık,0.0053
+province,national,sustainability,4,sıfır,0.0032
+province,national,sustainability,5,yüzde,0.0032
+province,national,sustainability,6,iklim,0.0029
+province,national,sustainability,7,yeşil,0.0029
+province,national,sustainability,8,sıfır atık,0.0028
+province,national,sustainability,9,dönüşümü,0.0025
+province,national,sustainability,10,klim değişikliği,0.0024
+province,national,sustainability,11,dünya,0.0024
+province,national,sustainability,12,enerji,0.0023
+province,national,sustainability,13,değişikliği,0.0023
+province,national,sustainability,14,olacak,0.0021
+province,national,sustainability,15,in,0.002
+province,national,sustainability,16,bahçesi,0.0019
+province,national,sustainability,17,şehircilik,0.0019
+province,national,sustainability,18,şehircilik klim,0.0018
+province,national,sustainability,19,alan,0.0018
+province,national,sustainability,20,zmir,0.0017
+province,kahramanmaras,technical,1,bilgiler,0.005
+province,kahramanmaras,technical,2,şehrin,0.0036
+province,kahramanmaras,technical,3,inşa,0.0035
+province,kahramanmaras,technical,4,deprem,0.0035
+province,kahramanmaras,technical,5,heyet,0.0031
+province,kahramanmaras,technical,6,çalışmaları,0.0028
+province,kahramanmaras,technical,7,çalışmalar,0.0028
+province,kahramanmaras,technical,8,şehir,0.0028
+province,kahramanmaras,technical,9,noktasında,0.0026
+province,kahramanmaras,technical,10,imar,0.0025
+province,kahramanmaras,technical,11,şekilde,0.0024
+province,kahramanmaras,technical,12,toplamda,0.0023
+province,kahramanmaras,technical,13,hasar,0.0022
+province,kahramanmaras,technical,14,çalışma,0.0022
+province,kahramanmaras,technical,15,dönüşüm,0.0021
+province,kahramanmaras,technical,16,afet,0.002
+province,kahramanmaras,technical,17,şehirde,0.002
+province,kahramanmaras,technical,18,bulunan,0.002
+province,kahramanmaras,technical,19,yenileme,0.0018
+province,kahramanmaras,technical,20,altyapı,0.0018
+province,kahramanmaras,political,1,eden,0.0041
+province,kahramanmaras,political,2,parti,0.0039
+province,kahramanmaras,political,3,araya,0.0035
+province,kahramanmaras,political,4,ak parti,0.0032
+province,kahramanmaras,political,5,deprem,0.0032
+province,kahramanmaras,political,6,dedi,0.0031
+province,kahramanmaras,political,7,ak,0.003
+province,kahramanmaras,political,8,bulundu,0.0025
+province,kahramanmaras,political,9,türkoğlu,0.0024
+province,kahramanmaras,political,10,ayağa,0.0022
+province,kahramanmaras,political,11,kalıcı,0.0021
+province,kahramanmaras,political,12,ziyaret eden,0.002
+province,kahramanmaras,political,13,birlikte,0.0018
+province,kahramanmaras,political,14,taleplerini,0.0018
+province,kahramanmaras,political,15,tbmm,0.0018
+province,kahramanmaras,political,16,bugün,0.0017
+province,kahramanmaras,political,17,şehrimizde,0.0017
+province,kahramanmaras,political,18,başkanı fırat,0.0016
+province,kahramanmaras,political,19,allah,0.0016
+province,kahramanmaras,political,20,fırat,0.0016
+province,kahramanmaras,development,1,geçici,0.0068
+province,kahramanmaras,development,2,şehrin,0.0043
+province,kahramanmaras,development,3,bilgiler,0.0043
+province,kahramanmaras,development,4,inşa,0.0037
+province,kahramanmaras,development,5,iş,0.0037
+province,kahramanmaras,development,6,devam ediyor,0.0034
+province,kahramanmaras,development,7,ediyor,0.0033
+province,kahramanmaras,development,8,ulaşım,0.0033
+province,kahramanmaras,development,9,eğitim,0.0033
+province,kahramanmaras,development,10,ayağa,0.0032
+province,kahramanmaras,development,11,araya,0.0032
+province,kahramanmaras,development,12,orman,0.0031
+province,kahramanmaras,development,13,geçici barınma,0.0029
+province,kahramanmaras,development,14,devam,0.0029
+province,kahramanmaras,development,15,asfalt,0.0028
+province,kahramanmaras,development,16,tarım orman,0.0027
+province,kahramanmaras,development,17,incelemelerde,0.0027
+province,kahramanmaras,development,18,tarım,0.0026
+province,kahramanmaras,development,19,barınma,0.0026
+province,kahramanmaras,development,20,alt,0.0025
+province,kahramanmaras,sustainability,1,çevre,0.0024
+province,kahramanmaras,sustainability,2,temizlik,0.0018
+province,kahramanmaras,sustainability,3,dedi,0.0014
+province,kahramanmaras,sustainability,4,çalışmalar,0.0014
+province,kahramanmaras,sustainability,5,dairesi başkanlığı,0.0013
+province,kahramanmaras,sustainability,6,dairesi,0.0013
+province,kahramanmaras,sustainability,7,alan,0.0012
+province,kahramanmaras,sustainability,8,in,0.0012
+province,kahramanmaras,sustainability,9,yardımcısı,0.0011
+province,kahramanmaras,sustainability,10,programda,0.0011
+province,kahramanmaras,sustainability,11,gelen,0.0011
+province,kahramanmaras,sustainability,12,bilgiler,0.0011
+province,kahramanmaras,sustainability,13,klim,0.001
+province,kahramanmaras,sustainability,14,sürdürüyor,0.0009
+province,kahramanmaras,sustainability,15,katıldı,0.0009
+province,kahramanmaras,sustainability,16,eden,0.0009
+province,kahramanmaras,sustainability,17,kontrol,0.0009
+province,kahramanmaras,sustainability,18,kapsamında,0.0008
+province,kahramanmaras,sustainability,19,park,0.0008
+province,kahramanmaras,sustainability,20,aza,0.0008
+province,hatay,technical,1,hatsu,0.0133
+province,hatay,technical,2,su,0.012
+province,hatay,technical,3,suyu,0.0079
+province,hatay,technical,4,altyapı,0.0075
+province,hatay,technical,5,sağlıklı,0.0063
+province,hatay,technical,6,çalışmalar,0.0039
+province,hatay,technical,7,hattı,0.0038
+province,hatay,technical,8,yetkilileri,0.0038
+province,hatay,technical,9,genel müdürlüğü,0.0036
+province,hatay,technical,10,çalışmaları,0.0034
+province,hatay,technical,11,bağlı,0.0033
+province,hatay,technical,12,şekilde,0.0033
+province,hatay,technical,13,çalışması,0.003
+province,hatay,technical,14,atık su,0.0029
+province,hatay,technical,15,deprem,0.0029
+province,hatay,technical,16,gerçekleştirdi,0.0028
+province,hatay,technical,17,linkten indirebilirsiniz,0.0028
+province,hatay,technical,18,aşağıdaki linkten,0.0028
+province,hatay,technical,19,linkten,0.0028
+province,hatay,technical,20,çalışmalarının,0.0026
+province,hatay,political,1,öntürk,0.0123
+province,hatay,political,2,il,0.0065
+province,hatay,political,3,tl,0.0056
+province,hatay,political,4,başkan öntürk,0.0043
+province,hatay,political,5,il genelinde,0.0039
+province,hatay,political,6,mehmet öntürk,0.0032
+province,hatay,political,7,deprem,0.0027
+province,hatay,political,8,ayrıca,0.0026
+province,hatay,political,9,ediyor hbb,0.0024
+province,hatay,political,10,eden,0.0023
+province,hatay,political,11,hizmet,0.0022
+province,hatay,political,12,fotoğraf,0.0021
+province,hatay,political,13,yeni,0.002
+province,hatay,political,14,genel müdürlüğü,0.0019
+province,hatay,political,15,devam,0.0018
+province,hatay,political,16,fotoğraf https,0.0018
+province,hatay,political,17,dedi,0.0017
+province,hatay,political,18,görsellerini aşağıdaki,0.0017
+province,hatay,political,19,görsellerini,0.0017
+province,hatay,political,20,ifade etti,0.0016
+province,hatay,development,1,tl,0.0089
+province,hatay,development,2,altyapı,0.0065
+province,hatay,development,3,hatsu,0.0059
+province,hatay,development,4,haberin görsellerini,0.0052
+province,hatay,development,5,skenderun,0.0051
+province,hatay,development,6,asfalt,0.0049
+province,hatay,development,7,yetkilileri,0.0048
+province,hatay,development,8,bakım,0.0048
+province,hatay,development,9,we tl,0.0048
+province,hatay,development,10,https we,0.0048
+province,hatay,development,11,we,0.0048
+province,hatay,development,12,fotoğraf,0.0044
+province,hatay,development,13,yaşam,0.0041
+province,hatay,development,14,ediyor hbb,0.004
+province,hatay,development,15,devam ediyor,0.004
+province,hatay,development,16,eğitim,0.0039
+province,hatay,development,17,ulaşım,0.0039
+province,hatay,development,18,ediyor,0.0038
+province,hatay,development,19,devam,0.0035
+province,hatay,development,20,görsellerini,0.0034
+province,hatay,sustainability,1,atık,0.0081
+province,hatay,sustainability,2,su,0.0054
+province,hatay,sustainability,3,hbb,0.0053
+province,hatay,sustainability,4,temizlik,0.0043
+province,hatay,sustainability,5,çevre,0.0034
+province,hatay,sustainability,6,ekipleri,0.003
+province,hatay,sustainability,7,daire,0.003
+province,hatay,sustainability,8,fotoğraflarını aşağıdaki,0.0028
+province,hatay,sustainability,9,daire başkanlığı,0.0025
+province,hatay,sustainability,10,fotoğraflarını,0.0023
+province,hatay,sustainability,11,dairesi,0.002
+province,hatay,sustainability,12,yaşam,0.002
+province,hatay,sustainability,13,yaşanan,0.002
+province,hatay,sustainability,14,çalışmalar,0.0019
+province,hatay,sustainability,15,ni,0.0019
+province,hatay,sustainability,16,sağlıklı,0.0017
+province,hatay,sustainability,17,aşağıdaki linkten,0.0016
+province,hatay,sustainability,18,linkten indirebilirsiniz,0.0016
+province,hatay,sustainability,19,linkten,0.0016
+province,hatay,sustainability,20,ayrıca,0.0016
+province,adiyaman,technical,1,deprem,0.0055
+province,adiyaman,technical,2,vatandaşlarımızın,0.0048
+province,adiyaman,technical,3,çalışmalar,0.0046
+province,adiyaman,technical,4,konut,0.0037
+province,adiyaman,technical,5,su,0.0034
+province,adiyaman,technical,6,şekilde,0.0033
+province,adiyaman,technical,7,ndere,0.0029
+province,adiyaman,technical,8,şehircilik,0.0027
+province,adiyaman,technical,9,inşa,0.0026
+province,adiyaman,technical,10,dönüşüm,0.0025
+province,adiyaman,technical,11,çevre şehircilik,0.0024
+province,adiyaman,technical,12,gören,0.0024
+province,adiyaman,technical,13,klim,0.0023
+province,adiyaman,technical,14,çalışmaları,0.0023
+province,adiyaman,technical,15,sağlam,0.0022
+province,adiyaman,technical,16,şehircilik klim,0.0022
+province,adiyaman,technical,17,klim değişikliği,0.0021
+province,adiyaman,technical,18,köy,0.002
+province,adiyaman,technical,19,hasar,0.002
+province,adiyaman,technical,20,bilgiler,0.0019
+province,adiyaman,political,1,deprem,0.005
+province,adiyaman,political,2,eden,0.0047
+province,adiyaman,political,3,taleplerini,0.0047
+province,adiyaman,political,4,depremzede,0.0042
+province,adiyaman,political,5,dedi,0.0041
+province,adiyaman,political,6,an,0.0041
+province,adiyaman,political,7,allah,0.0032
+province,adiyaman,political,8,araya,0.0032
+province,adiyaman,political,9,şehircilik,0.0028
+province,adiyaman,political,10,bugün,0.0027
+province,adiyaman,political,11,aziz,0.0027
+province,adiyaman,political,12,sohbet,0.0027
+province,adiyaman,political,13,çevre şehircilik,0.0027
+province,adiyaman,political,14,ilçe,0.0026
+province,adiyaman,political,15,milletimizin,0.0025
+province,adiyaman,political,16,ziyaret eden,0.0024
+province,adiyaman,political,17,ayağa,0.0024
+province,adiyaman,political,18,klim değişikliği,0.0021
+province,adiyaman,political,19,şehircilik klim,0.0021
+province,adiyaman,political,20,bayramı,0.0021
+province,adiyaman,development,1,dr osman,0.0054
+province,adiyaman,development,2,ilçe,0.0044
+province,adiyaman,development,3,alan,0.0043
+province,adiyaman,development,4,konut,0.0042
+province,adiyaman,development,5,deprem,0.0037
+province,adiyaman,development,6,yerinde,0.0036
+province,adiyaman,development,7,ayağa,0.0035
+province,adiyaman,development,8,yaşam,0.0033
+province,adiyaman,development,9,konteyner,0.0033
+province,adiyaman,development,10,alt,0.0032
+province,adiyaman,development,11,özel,0.0031
+province,adiyaman,development,12,ediyor,0.0031
+province,adiyaman,development,13,devam,0.0031
+province,adiyaman,development,14,eğitim,0.003
+province,adiyaman,development,15,araya,0.0029
+province,adiyaman,development,16,inşa,0.0028
+province,adiyaman,development,17,ederek,0.0028
+province,adiyaman,development,18,hak,0.0027
+province,adiyaman,development,19,valisi dr,0.0026
+province,adiyaman,development,20,teslim,0.0026
+province,adiyaman,sustainability,1,çevre,0.0051
+province,adiyaman,sustainability,2,klim,0.0033
+province,adiyaman,sustainability,3,alan,0.0023
+province,adiyaman,sustainability,4,çalışmalar,0.0023
+province,adiyaman,sustainability,5,kli,0.0023
+province,adiyaman,sustainability,6,söyledi,0.002
+province,adiyaman,sustainability,7,dedi,0.0019
+province,adiyaman,sustainability,8,ni,0.0018
+province,adiyaman,sustainability,9,yaşam,0.0016
+province,adiyaman,sustainability,10,su,0.0015
+province,adiyaman,sustainability,11,klim değişikliği,0.0015
+province,adiyaman,sustainability,12,yardımcısı,0.0015
+province,adiyaman,sustainability,13,dünya,0.0015
+province,adiyaman,sustainability,14,değişikliği,0.0014
+province,adiyaman,sustainability,15,büyük,0.0013
+province,adiyaman,sustainability,16,rahat,0.0013
+province,adiyaman,sustainability,17,sorunların,0.0013
+province,adiyaman,sustainability,18,kalkınma,0.0012
+province,adiyaman,sustainability,19,özel,0.0012
+province,adiyaman,sustainability,20,yüzde,0.0012
